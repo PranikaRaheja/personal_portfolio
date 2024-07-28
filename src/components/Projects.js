@@ -58,8 +58,8 @@ export const Projects = () => {
                 >
                   <h2>Projects</h2>
                   <p>
-                    Created a Travel Website using MERN Stack, Gaming Webiste
-                    and another one which caters to finances
+                    Created a Travel Website using MERN Stack, Gaming Webiste using React
+                    
                   </p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav
